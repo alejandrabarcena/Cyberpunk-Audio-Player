@@ -98,11 +98,3 @@ Para más información sobre cómo personalizar el reproductor, agregar nuevas c
 
 ### Vista móvil
 ![Vista móvil](https://images.unsplash.com/photo-1515405295579-ba7b45403062?w=400&h=600&fit=crop)
-
-## 📄 Licencia
-
-[MIT](LICENSE) © [Tu Nombre]
-
----
-
-Proyecto creado con 💜 y [Devv.ai](https://devv.ai)
