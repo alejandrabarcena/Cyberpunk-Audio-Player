@@ -1,0 +1,28 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Mi Canción Cyberpunk 1",
+      "artist": "Mi Artista 1",
+      "audioSrc": "https://cdn.pixabay.com/download/audio/2022/05/16/audio_1808fbf07a.mp3?filename=electronic-future-beats-117997.mp3",
+      "cover": "https://images.unsplash.com/photo-1614149162883-504ce4d13909?w=400&h=400&fit=crop",
+      "duration": 120
+    },
+    {
+      "id": 2,
+      "title": "Mi Canción Cyberpunk 2",
+      "artist": "Mi Artista 2",
+      "audioSrc": "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0c6435fe0.mp3?filename=cyberpunk-2099-10698.mp3",
+      "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=400&fit=crop",
+      "duration": 130
+    },
+    {
+      "id": 3,
+      "title": "Mi Canción Cyberpunk 3",
+      "artist": "Mi Artista 3",
+      "audioSrc": "https://cdn.pixabay.com/download/audio/2021/11/23/audio_cb4f1212a9.mp3?filename=cyber-war-126419.mp3",
+      "cover": "https://images.unsplash.com/photo-1515405295579-ba7b45403062?w=400&h=400&fit=crop",
+      "duration": 145
+    }
+  ]
+}
